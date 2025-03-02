@@ -53,7 +53,7 @@ class Program
 El método `MostrarMensaje(string mensaje)` recibe un parámetro y lo imprime en la consola.
 
 ## 🏋 Ejercicios :
- ****Ejercicio 1: Calculadora Simple****
+ 🖥️ **Ejercicio 1: Calculadora Simple**
  
 Crea un método `void` llamado `OperarNumeros(int num1, int num2, char operacion)`, que reciba dos números y un carácter indicando la operación (`+`, `-`, `*`, `/`).
 
@@ -63,14 +63,14 @@ Crea un método `void` llamado `OperarNumeros(int num1, int num2, char operacion
 -   Si es `/`, divide los números, validando que el divisor no sea 0.
 -   Si el operador no es válido, muestra un mensaje de error.
 
-**Ejercicio 2: Verificar Palíndromo**
+🖥️ **Ejercicio 2: Verificar Palíndromo**
 
 Crea un método `void` llamado `VerificarPalindromo(string palabra)` que reciba una palabra y verifique si es un palíndromo (se lee igual de izquierda a derecha y viceversa).
 
 -   Si la palabra es un palíndromo, imprime `"La palabra es un palíndromo."`
 -   Si no lo es, imprime `"La palabra no es un palíndromo."`
 
-**Ejercicio 3: Contar Vocales y Consonantes**
+🖥️ **Ejercicio 3: Contar Vocales y Consonantes**
 
 Crea un método `void` llamado `ContarLetras(string texto)` que reciba una cadena y cuente la cantidad de vocales y consonantes en ella. Luego, muestra los resultados en consola.
 
